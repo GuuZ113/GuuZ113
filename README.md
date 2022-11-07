@@ -1,7 +1,8 @@
 Olá, Meu nome é Gustavo Rodrigues!
-- 🔭 Hoje trabalho no Exército Brasileiro, precisamente no departamento de TI
+- 🔭 Técnico de Informática N1 na Penso Tecnologia.
 - 🌱 Estudando Eng da Computação
-- 🤔 Precisando de dicas sobre Zabbix
+- Técnico em Desenvolvimento de Sistemas pela Etec Jaraguá
+- 🤔 Buscando oportunidades na área de desenvolvimento.
 
 <div align="center">
   <a href="https://https://github.com/GuuZ113">
