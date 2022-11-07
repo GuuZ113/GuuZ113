@@ -12,9 +12,11 @@ Olá, Meu nome é Gustavo Rodrigues!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/GuuZ113/icons/9f2a26be3a854f9bd2f55cf1981e79988fea05dd/icons/java-icon.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/GuuZ113/icons/9f2a26be3a854f9bd2f55cf1981e79988fea05dd/icons/laravel-icon.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/GuuZ113/icons/9f2a26be3a854f9bd2f55cf1981e79988fea05dd/icons/php-icon.svg">
 </div>
   
   ##
